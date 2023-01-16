@@ -3,14 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d8a1f811e42f93bffeafce6ad9c49396",
+  "assets/AssetManifest.json": "34f25b21228f7a44557f9b0464ff5c18",
 "assets/FontManifest.json": "e25c505507e2d3ccf9188f95147c58df",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/images/1.png": "337a691a246678a5d9ea9d38ad3dc989",
+"assets/images/2.png": "a860d330f9829b67f7ecb430e576b552",
+"assets/images/3.png": "b33ed9be8bf4a9fb11a9ad06b9f14ab0",
+"assets/images/4.png": "3bf7b653edb583979db71d0bc2a17a58",
+"assets/images/5.webp": "89d4400caf248335f017eab9459e697d",
+"assets/images/6.jpg": "8e8db41993494a86787ca9d70094db3d",
+"assets/images/7.jpg": "2aaec46b9ff023cad2d24d794b0a3eb8",
 "assets/images/app_development.svg": "5b41fd05d5aff384b1e363cae73517e4",
 "assets/images/background.png": "b16b719e6b916b715b8adc67df52d2da",
 "assets/images/background.svg": "3a02bebd655fdea1e01e820ca48358de",
 "assets/images/cpp.svg": "e371df4b60a379a76f5000ba94c6ecfd",
 "assets/images/cs.svg": "935e435dbc955e44e295b950dfc87869",
+"assets/images/dp.jpg": "c5411f51d7b1d6ef92f5a118d584b6fa",
 "assets/images/flutter.svg": "3eea0d46b54837225892dda07adc322b",
 "assets/images/kotlin.svg": "f7a3c5f08ad41cb99d9ef17f2d938e1a",
 "assets/images/machine_learning.svg": "c525f979f4d4e1ab35783bc136de72b3",
@@ -35,9 +43,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "58784c1327ec35cbd94c9badb1c2bb4e",
-"/": "58784c1327ec35cbd94c9badb1c2bb4e",
-"main.dart.js": "2bcaebde69010c3210c23d97ee2ff9dd",
+"index.html": "d292f41472779ac6a54b9e2f856208c0",
+"/": "d292f41472779ac6a54b9e2f856208c0",
+"main.dart.js": "1cdf142338a5ce99f7a85268973c2db2",
 "manifest.json": "eb9d7edea85af7232379ccfec3971bc2",
 "version.json": "8f5cf3b0f48fbc2d0d5b1799740aa1ea"
 };
