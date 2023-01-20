@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "34f25b21228f7a44557f9b0464ff5c18",
+  "assets/AssetManifest.json": "78d4031a53d4e2d613d168e71cd9e9cc",
 "assets/FontManifest.json": "e25c505507e2d3ccf9188f95147c58df",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/1.png": "337a691a246678a5d9ea9d38ad3dc989",
@@ -18,7 +18,8 @@ const RESOURCES = {
 "assets/images/background.svg": "3a02bebd655fdea1e01e820ca48358de",
 "assets/images/cpp.svg": "e371df4b60a379a76f5000ba94c6ecfd",
 "assets/images/cs.svg": "935e435dbc955e44e295b950dfc87869",
-"assets/images/dp.jpg": "c5411f51d7b1d6ef92f5a118d584b6fa",
+"assets/images/dp.jpg": "80d4f6ce998f47871e82f4817f566602",
+"assets/images/dp2.jpg": "0eee6ac2a926f4d1e9235b06de53963f",
 "assets/images/flutter.svg": "3eea0d46b54837225892dda07adc322b",
 "assets/images/kotlin.svg": "f7a3c5f08ad41cb99d9ef17f2d938e1a",
 "assets/images/machine_learning.svg": "c525f979f4d4e1ab35783bc136de72b3",
@@ -43,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2ad1343b011439901b6835fa68f47180",
-"/": "2ad1343b011439901b6835fa68f47180",
-"main.dart.js": "2953e2a2d9720c87865faf710506e419",
+"index.html": "a523c79ec3ec2213df5a86920a84f580",
+"/": "a523c79ec3ec2213df5a86920a84f580",
+"main.dart.js": "b23e2028ea481180c47cdf78b70c503e",
 "manifest.json": "eb9d7edea85af7232379ccfec3971bc2",
 "version.json": "8f5cf3b0f48fbc2d0d5b1799740aa1ea"
 };
